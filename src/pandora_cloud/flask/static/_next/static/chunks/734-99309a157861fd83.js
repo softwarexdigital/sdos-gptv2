@@ -5112,9 +5112,9 @@
             w.jsxs)(rV, {
                 children: [(0,
                 w.jsxs)(rW, {
-                    children: ["ChatGPT", r && (0,
+                    children: ["SoftwareDigitalGPT", r && (0,
                     w.jsx)(eS, {
-                        children: "⚡️CN"
+                        children: "PLUS"
                     })]
                 }), (0,
                 w.jsxs)(rG, {
@@ -9560,9 +9560,9 @@
                         currentModelId: R.id
                     }), (0,
                     w.jsxs)(ob, {
-                        children: ["ChatGPT", F && (0,
+                        children: ["SoftwareDigitalGPT", F && (0,
                         w.jsx)(eS, {
-                            children: "⚡️CN"
+                            children: "PLUS"
                         })]
                     })]
                 }), (0,
@@ -10521,22 +10521,22 @@
         K.vU)({
             historyBucketToday: {
                 id: "history.bucket.today",
-                defaultMessage: "今天",
+                defaultMessage: "Today",
                 description: "Label for today's history bucket"
             },
             historyBucketYesterday: {
                 id: "history.bucket.yesterday",
-                defaultMessage: "昨天",
+                defaultMessage: "Yesterday",
                 description: "Label for yesterday's history bucket"
             },
             historyBucketLastSeven: {
                 id: "history.bucket.lastSeven",
-                defaultMessage: "一周前",
+                defaultMessage: "Previous 7 Days",
                 description: "Label for the history bucket of the previous 7 days"
             },
             historyBucketLastThirty: {
                 id: "history.bucket.lastThirty",
-                defaultMessage: "一个月前",
+                defaultMessage: "Previous 30 Days",
                 description: "Label for the history bucket of the previous 30 days"
             },
             unableToLoadHistory: {
@@ -15249,12 +15249,12 @@
             },
             freeResearchPreview: {
                 id: "thread.chatgptFreeResearchPreview",
-                defaultMessage: "📢注意：⚠️这不是OpenAI官方项目，本项目由⚡️<bili>JERRY-SYSTEM</bili>⚡️运营，克隆自GitHub项目🍀<pandora>Pandora</pandora>🍀。🎉",
+                defaultMessage: "Official Shopee Store: <bili>softwaredigital.os</bili> | Powered by <pandora>Pandora</pandora>",
                 description: "Free Research Preview disclaimer"
             },
             mayProduceInaccurateInformation: {
                 id: "thread.chatgptMayProduceInaccurateInformation",
-                defaultMessage: "📢注意：⚠️这不是OpenAI官方项目，本项目由⚡️<bili>JERRY-SYSTEM</bili>⚡️运营，克隆自GitHub项目🍀<pandora>Pandora</pandora>🍀。🎉",
+                defaultMessage: "Official Shopee Store: <bili>softwaredigital.os</bili> | Powered by <pandora>Pandora</pandora>",
                 description: "ChatGPT disclaimer for producing inaccurate information"
             },
             somethingWentWrong: {
@@ -16437,7 +16437,7 @@
                                             bili: function(e) {
                                                 return (0,
                                                 w.jsx)("a", {
-                                                    href: "https://chat.whatsapp.com/BU2LjXTAhj7FmuFMPsOOwj",
+                                                    href: "https://shopee.com.my/softwaredigital.os",
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     className: "underline",
@@ -16466,7 +16466,7 @@
                                             bili: function(e) {
                                                 return (0,
                                                 w.jsx)("a", {
-                                                    href: "https://chat.whatsapp.com/BU2LjXTAhj7FmuFMPsOOwj",
+                                                    href: "https://shopee.com.my/softwaredigital.os",
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     className: "underline",
