@@ -13272,24 +13272,29 @@
         }
         var lc = (0,
         K.vU)({
-            bili: {
-                id: "navigation.bili",
-                defaultMessage: "站长BiliBili主页",
-                description: "访问站长B站主页"
+            whatsapp: {
+                id: "navigation.whatsapp",
+                defaultMessage: "Join Whatsapp Group",
+                description: "Join Whatsapp Group"
+            },
+            shopee: {
+                id: "navigation.whatsapp",
+                defaultMessage: "Official Shopee Store",
+                description: "Official Shopee Store"
             },
             helpAndFaq: {
                 id: "navigation.helpAndFaq",
-                defaultMessage: "访问该项目GitHub主页",
+                defaultMessage: "Pandora on GitHub",
                 description: "GitHub menu item"
             },
             confirmClearConversations: {
                 id: "navigation.confirmClearConversations",
-                defaultMessage: "再次点击确定清空",
+                defaultMessage: "Confirm Clear Converstations",
                 description: "Confirmation text for clearing conversations"
             },
             clearConversations: {
                 id: "navigation.clearConversations",
-                defaultMessage: "清空所有聊天",
+                defaultMessage: "Clear Converstations",
                 description: "Clear conversations menu item"
             },
             setupTeam: {
@@ -13299,7 +13304,7 @@
             },
             myPlan: {
                 id: "navigation.myPlan",
-                defaultMessage: "账号的订阅",
+                defaultMessage: "My Plan",
                 description: "My plan menu item"
             },
             myProfile: {
@@ -13309,12 +13314,12 @@
             },
             settings: {
                 id: "navigation.settings",
-                defaultMessage: "设置",
+                defaultMessage: "Settings",
                 description: "Settings menu item"
             },
             logOut: {
                 id: "navigation.logOut",
-                defaultMessage: "退出登录",
+                defaultMessage: "Log Out",
                 description: "Log out menu item"
             },
             upgradeToPlus: {
@@ -13329,7 +13334,7 @@
             },
             newChat: {
                 id: "navigation.newChat",
-                defaultMessage: "新的对话",
+                defaultMessage: "New Chat",
                 description: "New chat button label"
             },
             clearChat: {
@@ -13364,12 +13369,12 @@
             },
             closeSidebar: {
                 id: "navigation.closeSidebar",
-                defaultMessage: "隐藏侧边栏",
+                defaultMessage: "Close Sidebar",
                 description: "Close sidebar button label"
             },
             openSidebar: {
                 id: "navigation.openSidebar",
-                defaultMessage: "显示侧边栏",
+                defaultMessage: "Open Sidebar",
                 description: "Open sidebar button label"
             },
             newLabel: {
@@ -13489,7 +13494,7 @@
                 w.jsx)(lv, {}), (0,
                 w.jsxs)(lh, {
                     as: "a",
-                    href: "https://space.bilibili.com/702028797",
+                    href: "https://chat.whatsapp.com/BU2LjXTAhj7FmuFMPsOOwj",
                     target: "_blank",
                     onClick: function() {
                         i(I.s6.clickFaqLink)
@@ -13499,8 +13504,27 @@
                         icon: X.AlO
                     }), (0,
                     w.jsx)(et.Z, (0,
-                    b._)({}, lc.bili))]
-                }), (0,
+                    b._)({}, lc.whatsapp))]
+                }), 
+                
+                (0,
+                    w.jsx)(lv, {}), (0,
+                    w.jsxs)(lh, {
+                        as: "a",
+                        href: "https://shopee.com.my/softwaredigital.os",
+                        target: "_blank",
+                        onClick: function() {
+                            i(I.s6.clickFaqLink)
+                        },
+                        children: [(0,
+                        w.jsx)(ef.ZP, {
+                            icon: X.AlO
+                        }), (0,
+                        w.jsx)(et.Z, (0,
+                        b._)({}, lc.shopee))]
+                    }), 
+                
+                (0,
                 w.jsx)(lv, {}), (0,
                 w.jsxs)(lh, {
                     as: "a",
@@ -16413,7 +16437,7 @@
                                             bili: function(e) {
                                                 return (0,
                                                 w.jsx)("a", {
-                                                    href: "https://space.bilibili.com/702028797",
+                                                    href: "https://chat.whatsapp.com/BU2LjXTAhj7FmuFMPsOOwj",
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     className: "underline",
@@ -16442,7 +16466,7 @@
                                             bili: function(e) {
                                                 return (0,
                                                 w.jsx)("a", {
-                                                    href: "https://space.bilibili.com/702028797",
+                                                    href: "https://chat.whatsapp.com/BU2LjXTAhj7FmuFMPsOOwj",
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     className: "underline",
